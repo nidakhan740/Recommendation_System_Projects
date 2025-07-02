@@ -40,10 +40,7 @@ If you input `Avatar`, the system might recommend:
 
 1. Load the Jupyter notebook `Recommendation_System.ipynb`
 2. Run all cells
-3. Call the function:
-```python
-recommend("Iron Man")
-```
+3. Call the function: recommend("Iron Man")
 4. It will print 5 similar movies
 
 
