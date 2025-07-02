@@ -44,7 +44,3 @@ If you input `Avatar`, the system might recommend:
 recommend("Iron Man")
 ```
 4. It will print 5 similar movies
-
-## Author
-Nida Khan  
-*Aspiring Data Scientist with an interest in Recommendation Systems and NLP.*
