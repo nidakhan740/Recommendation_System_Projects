@@ -15,7 +15,7 @@ Movie recommendation engines helps a user to find movies they might enjoy, based
 
 - Source: [Kaggle - TMDB Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 - Files used: `movies.csv`, `credits.csv`
-- Key fields: `title`, `overview`, `genres`, `cast`, `crew`
+- Key fields: `title`, `overview`, `genres`, `cast`, `crew'
 
 ---
 
