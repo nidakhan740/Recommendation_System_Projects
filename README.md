@@ -11,7 +11,7 @@ Movie recommendation engines helps a user to find movies they might enjoy, based
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - Source: [Kaggle - TMDB Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 - Files used: `movies.csv`, `credits.csv`
@@ -19,7 +19,7 @@ Movie recommendation engines helps a user to find movies they might enjoy, based
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - Python
 - Pandas, NumPy
@@ -28,7 +28,7 @@ Movie recommendation engines helps a user to find movies they might enjoy, based
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 1. Merge movie and credit metadata
 2. Clean and combine features like genres, cast, and keywords
@@ -37,7 +37,7 @@ Movie recommendation engines helps a user to find movies they might enjoy, based
 
 ---
 
-## 🎯 Sample Output
+##  Sample Output
 
 If you input `Avatar`, the system might recommend:
 - John Carter  
@@ -48,7 +48,7 @@ If you input `Avatar`, the system might recommend:
 
 ---
 
-## ▶️ How to Use
+##  How to Use
 
 1. Load the Jupyter notebook `Recommendation_System.ipynb`
 2. Run all cells
